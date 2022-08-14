@@ -21,9 +21,11 @@ Use this program like you would any other shell program. Type in the command, an
 To exit program, type "exit" in the terminal. Kill signals such as "ctrl+C" will not work to exit the program.
 
 Example 1:  ls
+
 This command will print the directories and files that reside in the current working directory.
 
 Example 2:  touch hello.txt
+
 This command will create a new file called "hello.txt" in the current working directory.
 
 ---
